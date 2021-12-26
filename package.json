@@ -1,0 +1,24 @@
+{
+  "name": "rainbow-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Emerald-Rainbow/Rainbow-BackEnd.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Emerald-Rainbow/Rainbow-BackEnd/issues"
+  },
+  "homepage": "https://github.com/Emerald-Rainbow/Rainbow-BackEnd#readme",
+  "dependencies": {
+    "express": "^4.17.2",
+    "firebase-admin": "^10.0.1",
+    "nodemon": "^2.0.15"
+  }
+}
