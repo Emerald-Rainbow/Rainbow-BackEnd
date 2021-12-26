@@ -1,9 +1,10 @@
 class Blog {
-    constructor( id, userId, title, content ) {
+    constructor( id, userId, title, content, createdAt) {
             this.blogId = id;
             this.userId = userId;
             this.title = title;
-            this.content = content;            
+            this.content = content;   
+            this.createdat = createdat;         
     }
 }
 

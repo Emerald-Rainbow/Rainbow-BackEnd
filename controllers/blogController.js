@@ -33,7 +33,8 @@ module.exports = function(app){
                         doc.id,
                         doc.data().userId,
                         doc.data().title,
-                        doc.data().content
+                        doc.data().content,
+                        doc.data().createdAt
                     );
                     blogsArray.push(blog);
                 });
