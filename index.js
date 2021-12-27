@@ -24,5 +24,5 @@ app.use(express.urlencoded({extended: true}));
 
 blogController(app);
 
-app.listen(4000);
+app.listen(3000);
 console.log('You are listening to port 3000');
