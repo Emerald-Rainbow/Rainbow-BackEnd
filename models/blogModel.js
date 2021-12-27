@@ -4,7 +4,7 @@ class Blog {
             this.userId = userId;
             this.title = title;
             this.content = content;   
-            this.createdat = createdat;         
+            this.createdAt = createdAt;         
     }
 }
 
